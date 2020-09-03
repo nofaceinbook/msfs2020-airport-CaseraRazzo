@@ -2,7 +2,7 @@
 Altitude Airstrip Casera Razzo in the Italien Alps for Microsoft Flight Simulator 2020.
 It is a non official gras runway in the Dolomiti mountains (Vento region) situated on a pass.  With the elevation of about 1.800m abouve sea level it might be the highest availible landing in Italy. The short strip with 400m length makes it only suitable for small aircraft.  Forced to give an ICAO code, which does not exist in reality, I chose "LID1".
 
-![Thumbnail](/PackageDefinitions/schmax-caserarazzopackage/ContentInfo/Thumbnail.jpg)
+![HigLevelView](/img/CaseraRazzo8.jpg)
 
 Actually the mesh and scenery in MSFS are per default great and usable for this small strip. So you could fly there directly e.g. from Belluno (LIDB) or enter the following coordinates: **46.477098, 12.614290**. This scenery however adds a runway, so that you could spawn there directly and it adds some further objects.
 
