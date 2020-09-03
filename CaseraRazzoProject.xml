@@ -1,0 +1,8 @@
+<Project Version="2" Name="CaseraRazzoProject" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\schmax-caserarazzopackage.xml</Package>
+	</Packages>
+</Project>
+
