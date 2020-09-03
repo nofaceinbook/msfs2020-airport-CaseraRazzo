@@ -16,5 +16,5 @@ Actually the mesh and scenery in MSFS are per default great and usable for this 
 ![HigLevelView](./img/CaseraRazzo9.JPG)
 
 ## Credits
-I was inspired by nicotom-xp who created this nice landing strip in X-Plane (https://forums.x-plane.org/index.php?/files/file/24728-casera-razzo-mountain-landing-strip-italy/) and he based it on a scenery started from the original FSX work by Dario "Vic Dabor" Bortot. So now it is back again in the newest MS sim :-)
+I was inspired by nicotom-xp who created [this nice landing strip in X-Plane](https://forums.x-plane.org/index.php?/files/file/24728-casera-razzo-mountain-landing-strip-italy/) and he based it on a scenery started from the original FSX work by Dario "Vic Dabor" Bortot. So now it is back again in the newest MS sim :-)
 
