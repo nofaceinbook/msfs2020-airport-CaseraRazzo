@@ -1,0 +1,31 @@
+<AssetPackage Name="schmax-caserarazzopackage" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>AIRCRAFT</ContentType>
+		<Title>Casera Razzo Airfield</Title>
+		<Manufacturer/>
+		<Creator>Max</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\schmax-caserarazzopackage\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\schmax-caserarazzopackage\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="caserarazzopackage">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\</AssetDir>
+			<OutputDir>scenery\world\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
