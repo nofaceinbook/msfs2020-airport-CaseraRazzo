@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Casera Razzo Alpine Landing Strip for MSFS 2020
+Altitude Airstrip Casera Razzo in the Italien Alps for Microsoft Flight Simulator 2020.
+It is a non official gras runway in the Dolomiti mountains (Vento region) situated on a pass.  With the elevation of about 1.800m abouve sea level it might be the highest availible landing in Italy. The short strip with 400m length makes it only suitable for small aircraft.  Forced to give an ICAO code, which does not exist in reality, I chose "LID1".
 
-You can use the [editor on GitHub](https://github.com/nofaceinbook/msfs2020-airport-CaseraRazzo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Thumbnail](/PackageDefinitions/schmax-caserarazzopackage/ContentInfo/Thumbnail.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Actually the mesh and scenery in MSFS are per default great and usable for this small strip. So you could fly there directly e.g. from Belluno (LIDB) or enter the following coordinates: **46.477098, 12.614290**. This scenery however adds a runway, so that you could spawn there directly and it adds some further objects.
 
-### Markdown
+## Installation
+Go to the latest release (refer to link on the right) and unzip the airport file into your MSFS 2020 Community Folder. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Credits
+I was inspired by nicotom-xp who created this nice landing strip in X-Plane (https://forums.x-plane.org/index.php?/files/file/24728-casera-razzo-mountain-landing-strip-italy/) and he based it on a scenery started from the original FSX work by Dario "Vic Dabor" Bortot. So now it is back again in the newest MS sim :-)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nofaceinbook/msfs2020-airport-CaseraRazzo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
