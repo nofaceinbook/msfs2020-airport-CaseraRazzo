@@ -1,5 +1,6 @@
 # msfs2020-airport-CaseraRazzo
 Altitude Airstrip Casera Razzo in the Italien Alps for Microsoft Flight Simulator 2020
+![Thumbnail](/PackageDefinitions/schmax-caserarazzopackage/ContentInfo/Thumbnail.jpg)
 
 Actually the mesh and scenery in MSFS are per default great and usable for this small strip. So you could fly there directly e.g. from Belluno (LIDB) or enter the following coordinates: "46.477098, 12.614290".
 This scenery however adds runway, so that you could spawn there directly and adds some objects.
